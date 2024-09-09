@@ -1,1 +1,3 @@
-# Software-for-Embedded-System
+# Software-for-Embedded-System\
+
+This course provides an introduction to software design for embedded computing systems. Major topics covered include the importance of time and timing in embedded systems, embedded software organization (FSM-based program design, polled loop systems, foreground- background systems, event driven architectures, multi-tasking, etc.), real-time scheduling and real-time operating systems, wired/wireless networked embedded systems, debugging techniques for embedded software, and advanced topics such as memory-safe programming, implementing reentrant functions, and minimizing code space, memory usage, and power consumption. The course features a series of integrated assignments using state-of-the-art embedded hardware platforms, embedded software design tools, and real-time operating systems that reinforce the concepts taught in the lectures.
