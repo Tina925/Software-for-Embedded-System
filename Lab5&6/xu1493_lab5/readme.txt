@@ -1,0 +1,3 @@
+Youtube Link: https://youtu.be/EM3EWDhjyx4
+
+Overall setup: connect Pin 14 to scl and Pin 22 to sda, the google assistant command for activate is "activate motion sensor activate" and command for deactivate is "activate deactivate". I have calibrate the sensor first to let x = 0, y = 0, z = 9.8. in the video, I showed that I connected to the wifi first, and then send the command to google assistant to activate, and neopixel turns green and when moving the sensor the led turns red and send alert to my phone, and then I send command to deactivate sensor, when moving the sensor it will no longer detect the motion or send alert. 
